@@ -3,7 +3,7 @@ __pycache__/
 venv/
 data/
 temp/
-/*.json
-/*.ini
+*.json
+*.ini
 test*
 TODO
